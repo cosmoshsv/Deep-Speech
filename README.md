@@ -10,4 +10,4 @@ This requires Tensorflow 1.15.0 or version 1.x.
 
 ## TPU Training
 Steps to run the code on TPUs are provided in the same notebook. Comment the cell in case of GPU training.
-We did not notice significant speedup using TPUs over GPUs/.
+We did not notice significant speedup using TPUs over GPUs.
